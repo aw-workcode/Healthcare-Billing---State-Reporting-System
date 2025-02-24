@@ -8,8 +8,6 @@ This project automates **healthcare state reporting workflows** for mental healt
 - Data quality checks and validation  
 - Trend analysis for service forecasting  
 
-Built for accuracy and scalability, it reflects real-world tasks from the [Meridian Data Analyst - State Reporting job description](#).  
-
 ---
 
 ## 🔑 Key Compliance Features  
@@ -38,13 +36,3 @@ Built for accuracy and scalability, it reflects real-world tasks from the [Merid
 - **SQL**: Query optimization, data validation  
 - **Data Visualization**: `matplotlib/seaborn` (billing trend analysis)  
 - **Tools**: Jupyter Notebook (prototyping), SQLite (database management)  
-
----
-
-## 📂 Project Relevance to the Role  
-This project directly addresses requirements from the **Meridian Data Analyst - State Reporting** job description:  
-
-| **Job Requirement**               | **Project Implementation**                                                                 |  
-|-----------------------------------|-------------------------------------------------------------------------------------------|  
-| Build/transmit state files        | Generated state-compliant `state_reporting.csv` with validated dates and financial data   |  
-| Create journal entries            | Automated `journal_entries
